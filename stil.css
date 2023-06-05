@@ -1,0 +1,27 @@
+p {
+color: lightcoral;
+font-family: monospace;
+background-color: antiquewhite;
+padding: 20px;
+}
+h1 {
+	color: antiquewhite;
+	font-family: monospace;
+}
+h2 {
+	color: antiquewhite;
+	font-family: monospace;
+}
+body {
+	background-color: rgb(131, 35, 35);
+}
+li {
+	color: lightpink;
+}
+blockquote {
+	color: lightpink;
+}
+h3 {
+	color: antiquewhite;
+	font-family: monospace;
+}
